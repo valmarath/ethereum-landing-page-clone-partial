@@ -6,6 +6,6 @@ Ethereum Landing Page (clone) is a project made alongside my course in [B7Web](h
 
 ## See Ethereum Landing Page in action
 
-- Download all files and open the [ethereum.hmtl](https://github.com/valmarath/ethereum-landing-page-clone-partial/blob/main/ethereum.html) file on your browser. 
+- Download all files and open the [ethereum.html](https://github.com/valmarath/ethereum-landing-page-clone-partial/blob/main/ethereum.html) file on your browser. 
 
 - To test the responsive features, you can use the inspect option to change the dimensions as you please and see how it responds. 
